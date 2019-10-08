@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sverrirpr/minimal-cv.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Sverrirpr/minimal-cv.git/static/js/main.0517f314.chunk.js",
+    "main.js.map": "/Sverrirpr/minimal-cv.git/static/js/main.0517f314.chunk.js.map",
+    "runtime-main.js": "/Sverrirpr/minimal-cv.git/static/js/runtime-main.1c4e58c4.js",
+    "runtime-main.js.map": "/Sverrirpr/minimal-cv.git/static/js/runtime-main.1c4e58c4.js.map",
+    "static/js/2.11012d8f.chunk.js": "/Sverrirpr/minimal-cv.git/static/js/2.11012d8f.chunk.js",
+    "static/js/2.11012d8f.chunk.js.map": "/Sverrirpr/minimal-cv.git/static/js/2.11012d8f.chunk.js.map",
+    "index.html": "/Sverrirpr/minimal-cv.git/index.html",
+    "precache-manifest.ba86328cc8c21ed94f9d2fe62f5024a1.js": "/Sverrirpr/minimal-cv.git/precache-manifest.ba86328cc8c21ed94f9d2fe62f5024a1.js",
+    "service-worker.js": "/Sverrirpr/minimal-cv.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Sverrirpr/minimal-cv.git/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Sverrirpr/minimal-cv.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c4e58c4.js",
+    "static/js/2.11012d8f.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.0517f314.chunk.js"
+  ]
+}
